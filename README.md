@@ -6,4 +6,5 @@ Links:
 1. Draw pixel art online - https://www.pixilart.com/draw
 
 Resources:
-1. website for tutorials,assets and resources - https://marcosecchi.github.io/resources/pages/graphics_pixel-art.html
+1. website for tutorials,assets and resources - https://marcosecchi.github.io/resources/pages/graphics_pixel-art.html 
+2. https://dinopixel.com/
